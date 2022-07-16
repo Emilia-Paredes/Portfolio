@@ -1,11 +1,18 @@
-.row {
+.container-xxxl {
   padding: 20px;
   background-color: #7fffd4a1;
-  text-align: center;
   align-items: center;
 }
+
 
 #name {
   font-weight: bold;
   margin-top: 20px;
+  align-self: center;
+}
+
+
+
+span {
+  padding: 20px;
 }
