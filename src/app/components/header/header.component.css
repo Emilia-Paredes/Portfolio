@@ -1,14 +1,15 @@
 .navbar-blue {
-    background-color: blue;
     height: 85px;
+    padding-top: 0px;
+    background-color: blue;
 }
 
 /* Set the border color */
           
 .navbar-toggler {
-    border-color: lightskyblue;
-    background-color: blue;
     box-shadow: none;
+    background-color: blue;
+    border-color: lightskyblue;
 }
 
 .navbar-toggler:hover {
@@ -34,4 +35,8 @@
 
 #IntiLogo {
     width: 200px;
+}
+
+ul {
+    flex-direction: row-reverse;
 }
