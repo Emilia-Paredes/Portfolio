@@ -1,6 +1,10 @@
 .container-xxxl {
-  padding: 15px 30px 15px 30px;
-  background-color: #7fffd4a1;
+  padding: 7px 5%;
+  background-color: #4d877391;
+}
+
+h2 {
+  margin-bottom: 16px;
 }
 
 h3, h4 {

@@ -1,8 +1,8 @@
 .container-xxxl {
   display: flex;
   flex-wrap: wrap;
+  padding: 7px 5%;
   align-items: center;
   justify-content: center;
-  padding: 15px 30px 15px 30px;
-  background-color: #7fffd4a1;
+  background-color: #4d877391;
 }
